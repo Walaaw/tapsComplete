@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+body{
+  background-color: #F1F5F8;
+}
+
+.company{
+  background-color: #DAE2EC;
+}
+button:hover{
+  color: #2CBDDA !important;
+  border-left: 2px solid #2CBDDA  !important;
+  border-radius: 0px;
+  border: none;
+}
